@@ -19,7 +19,7 @@ func pi(n int32) float64 {
 	return f
 }
 
-func main() {
+func maindemo() {
 	// Start measuring time from now.
 	started := time.Now()
 
